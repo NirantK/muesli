@@ -73,6 +73,10 @@ case "${shard}" in
       BodhanLifecycleTests
       DictationBackendPreparationTests
       ContributionMilestoneTests
+      CotypistShaperTests
+      CotypistHistoryTests
+      CotypistSetupGuideLayoutTests
+      CotypistModelComparisonTests
     )
     ;;
   dictation-transcription)
